@@ -1,0 +1,17 @@
+body{
+    background-color: #ebe6d9;
+}
+h1, h2{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+p{
+    font-size: 18pt;
+}
+iframe{
+    display: block;
+    margin: auto;
+}
